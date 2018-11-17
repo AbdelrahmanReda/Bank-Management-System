@@ -1,0 +1,5 @@
+﻿  ass4.cpp
+c:\users\boody\source\repos\ass4\ass4\ass4.cpp(232): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\boody\source\repos\ass4\ass4\ass4.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\boody\source\repos\ass4\ass4\ass4.cpp(322): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ass4.vcxproj -> C:\Users\boody\source\repos\ass4\Debug\ass4.exe
